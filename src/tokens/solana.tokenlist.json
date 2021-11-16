@@ -25560,6 +25560,23 @@
         "twitter": "https://twitter.com/solitso",
         "website": "https://solit.so"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ASTkbpe5ckW1mx6WDLE9zPScWsYjSh6h5zQ89UYoUQ7D",
+      "symbol": "CHAM",
+      "name": "SOLChamies",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ASTkbpe5ckW1mx6WDLE9zPScWsYjSh6h5zQ89UYoUQ7D/logo.png",
+      "tags": [
+        "social-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/GAN7MmCxAw",
+        "twitter": "https://twitter.com/SOLChamies",
+        "website": "https://solchamies.com"
+      }
     }
   ],
   "version": {
