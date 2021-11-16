@@ -25498,6 +25498,22 @@
       "extensions": {
         "website": "https://app.saber.so/#/pools/socean"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6o4f6tuvVQTa9PTrHN9pvUeXEPusN6RLgMam1Zc7tYbm",
+      "symbol": "WEN",
+      "name": "WEN Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6o4f6tuvVQTa9PTrHN9pvUeXEPusN6RLgMam1Zc7tYbm/logo.png",
+      "tags": [
+        "community-token",
+        "meme-token",
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/wenmoonagain"
+      }
     }
   ],
   "version": {
