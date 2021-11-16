@@ -25600,6 +25600,22 @@
       "name": "SolanaEgg Token",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3TWd4KeGXceDSKuzfCC9CkY9AuTaEPgMrZXwCViXb7KT/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "X71v8NH6dbLwPsn4TR1Tx38K4uWgGZ78mC599XSPJox",
+      "symbol": "SNS",
+      "name": "NSPACE Supporter",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/X71v8NH6dbLwPsn4TR1Tx38K4uWgGZ78mC599XSPJox/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/NJjqzzXNKb",
+        "twitter": "https://twitter.com/mynftspace_art",
+        "website": "http://mynftspace.art/"
+      }
     }
   ],
   "version": {
