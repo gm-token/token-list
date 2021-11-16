@@ -25592,6 +25592,14 @@
       "extensions": {
         "website": "https://cinovos.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3TWd4KeGXceDSKuzfCC9CkY9AuTaEPgMrZXwCViXb7KT",
+      "symbol": "SOLAEGG",
+      "name": "SolanaEgg Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3TWd4KeGXceDSKuzfCC9CkY9AuTaEPgMrZXwCViXb7KT/logo.png"
     }
   ],
   "version": {
